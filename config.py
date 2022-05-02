@@ -33,7 +33,7 @@ CONFIG = [
         'name': 'body',
         'directory': 'Body',
         'required': True,
-        'rarity_weights': None,
+        'rarity_weights': [50, 50],
     },
     {
         'id': 3,
@@ -53,8 +53,8 @@ CONFIG = [
         'id': 5,
         'name': 'clothes',
         'directory': 'Shirt',
-        'required': False,
-        'rarity_weights': None,
+        'required': True,
+        'rarity_weights': [50, 50],
     },
     {
         'id': 6,
@@ -74,7 +74,7 @@ CONFIG = [
         'id': 8,
         'name': 'wristband',
         'directory': 'Wristband',
-        'required': False,
-        'rarity_weights': None,
+        'required': True,
+        'rarity_weights': [33, 33, 33],
     },
 ]

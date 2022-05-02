@@ -1,5 +1,8 @@
 # Generative NFT Art
 
+** Repo Notes - Based on the tutorial below - altered sample assets in figma, then made corresponding updates in config.py file ** 
+
+
 ## Introduction
 
 The `generative-art-nft` repository is a library for creating generative art. It was developed for the purpose of creating NFT avatar & collectible projects. This library was used to generate the artwork for the [Scrappy Squirrels](https://www.scrappysquirrels.co/) project. 
